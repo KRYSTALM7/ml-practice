@@ -22,7 +22,7 @@ ml-practice/
 
 ---
 
-##Algorithms Covered
+## Algorithms Covered
 
 ### Classification
 | File | Algorithm | Dataset |
@@ -118,4 +118,6 @@ python deep_learning/mlp_iris.py
 
 ## License
 
-MIT License — Copyright (c) 2024 Sujan
+## License
+
+[MIT License](LICENSE) — Copyright (c) 2026 Sujan
