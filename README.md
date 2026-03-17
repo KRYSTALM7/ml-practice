@@ -22,7 +22,7 @@ ml-practice/
 
 ---
 
-## 🗂Algorithms Covered
+##Algorithms Covered
 
 ### Classification
 | File | Algorithm | Dataset |
