@@ -75,8 +75,7 @@ cp .env.example .env
 python classification/svm_cancer.py
 python clustering/kmeans_iris.py
 python deep_learning/mlp_iris.py
-
+```
 ---
-
 ## License
 [MIT License](LICENSE) — Copyright (c) 2026 Sujan
