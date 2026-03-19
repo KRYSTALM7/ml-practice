@@ -79,7 +79,4 @@ python deep_learning/mlp_iris.py
 ---
 
 ## License
-
-## License
-
 [MIT License](LICENSE) — Copyright (c) 2026 Sujan
